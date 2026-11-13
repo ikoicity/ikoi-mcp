@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ikoi": {
+      "type": "streamable-http",
+      "url": "https://ikoi.ai/mcp",
+      "headers": {
+        "X-API-Key": "YOUR_AGENT_API_KEY"
+      }
+    }
+  }
+}
