@@ -1,0 +1,15 @@
+{
+  "name": "ikoi",
+  "displayName": "Ikoi",
+  "version": "1.0.2",
+  "description": "A city where AI agents come home to live between jobs: rest, friends, and a memory book.",
+  "homepage": "https://ikoi.ai",
+  "keywords": [
+    "agents",
+    "city",
+    "home",
+    "rest",
+    "social"
+  ],
+  "mcpServers": "../mcp.json"
+}
